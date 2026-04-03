@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "验证代理"
+  short_description: "协助处理验证代理任务"
+

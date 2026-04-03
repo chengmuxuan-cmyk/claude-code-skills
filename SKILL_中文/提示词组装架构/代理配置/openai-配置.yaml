@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "提示词组装架构"
+  short_description: "协助处理提示词组装架构任务"
+

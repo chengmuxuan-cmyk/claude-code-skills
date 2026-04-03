@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "技能工作流封装"
+  short_description: "协助处理技能工作流封装任务"
+

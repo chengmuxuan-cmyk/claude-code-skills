@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "MCP 集成平面"
+  short_description: "协助处理 MCP 集成平面任务"
+

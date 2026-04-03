@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "代理生命周期管理"
+  short_description: "协助处理代理生命周期管理任务"
+
